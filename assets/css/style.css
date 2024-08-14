@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+
+}
+.navbar {
+    background-color: #28A745;
+}
+ 
+.logo {
+    width: 86px;
+}
+
+
+.texto-cuppon {
+    color: #28A745;
+}
+
+.bg-cuppon{
+    background-color: #28A745;
+}
